@@ -45,13 +45,14 @@ This project uses **Google Gemini AI API** to generate intelligent content and *
 ---
 
 ## 📂 Project Structure
-ai-pdf-generator/
-│
-├── app.py # Main application file
-├── generator.py # AI content generation logic
-├── pdf.py # PDF creation logic
-├── .gitignore
-└── README.md
+
+    ai-pdf-generator/
+    │
+    ├── app.py
+    ├── generator.py
+    ├── pdf.py
+    ├── .gitignore
+    └── README.md
 
 
 ---
